@@ -19,11 +19,6 @@ Login securely to view their account details, Transfer funds to other accounts, 
  
 Review loan applications submitted by customers, Approve or reject loans based on predefined criteria.
 
-### 4. Customer Support Officer
-- Customer Support Officers ensure excellent service:
- 
-View and manage customer queries, Mark queries as solved or unsolved, maintaining clear communication with customers,
-
 ## Technologies Used
 - Programming Language: C++
 - Data Structures: Dynamic arrays, linked lists, Stack, Queue.
